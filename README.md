@@ -1,5 +1,6 @@
 # Curso_GAMs_by-Noam-Ross
-https://noamross.github.io/gams-in-r-course/
+Curso impartido por el doctor Noam Ross, el cual puede ser encontrado en: https://noamross.github.io/gams-in-r-course/
+
  
 A Free, Interactive Course using mgcv
 Hello! Welcome to Generalized Additive Models in R. This short course will teach you how to use these flexible, powerful tools to model data and solve data science problems. GAMs offer offer a middle ground between simple linear models and complex machine-learning techniques, allowing you to model and understand complex systems.
