@@ -19,5 +19,4 @@ In this chapter, you will extend the types of models you can fit to those with i
 ## 4 - Logistic GAMs for Classification
 In the first three chapters, you used GAMs for regression of continuous outcomes. In this chapter, you will use GAMs for classification. You will build logistic GAMs to predict binary outcomes like customer purchasing behavior, learn to visualize this new type of model, make predictions, and learn how to explain the variables that influence each prediction.
 
-## Reference and Resources
-Here are scripts to re-use and links to additional references and topics to learn.
+
